@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmanGoswami-bit
-- 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Programming (Basic Level Efficiency in Python and C Programming Languages)
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... Open-Source projects
 - 📫 How to reach me ... at my Linkedin
 - 😄 Pronouns: ...He/Him
